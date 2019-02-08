@@ -1,0 +1,54 @@
+body {
+    background-image: url(https://previews.123rf.com/images/mironovak/mironovak1503/mironovak150300066/37456350-flag-of-argentina-or-argentinean-banner-on-brick-texture.jpg);
+}
+
+.jumbotron {
+    background-image: url(https://previews.123rf.com/images/mironovak/mironovak1503/mironovak150300066/37456350-flag-of-argentina-or-argentinean-banner-on-brick-texture.jpg);
+
+}
+
+.icons {
+    margin: 8%;
+    text-align: center;
+}
+
+i:hover {
+    border: 1px solid;
+    color: #edbb00;
+}
+
+.icon-bar {
+    width: 100%; 
+    background-color: #555; 
+    overflow: auto;
+  }
+  
+  .icon-bar a {
+    float: left;
+    text-align: center;
+    width: 20%; 
+    padding: 12px 0; 
+    transition: all 0.3s ease; 
+    color: white; 
+    font-size: 36px;
+    margin-bottom: 5%;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #995c0c; 
+  }
+
+
+.positions {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+
+
+.card {
+    text-align: center;
+}

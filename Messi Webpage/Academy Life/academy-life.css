@@ -1,0 +1,56 @@
+
+body {
+    background-image: url(https://www.planwallpaper.com/static/images/fc_barcelona_wallpaper_by_tn2209-d566rxn.png);
+    background-image: none repeat;
+}
+.jumbotron {
+    background-color: #bcb5b5;
+    background: none;
+    height: 50px;
+    padding-bottom: 3%;
+    color: white;
+    text-align: center;
+
+    
+}
+
+.setup {
+    align-content: center;
+    text-align: center;
+    margin: 10%;
+}
+.messi-youth {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.row {
+    font-size: 17px;
+    color: white;
+    background-color: #1e1c1c;
+    letter-spacing: 2px;
+}
+ 
+.passport {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.academy-list {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    list-style-type: none;
+    font-size: 25px;
+    color: white;
+}
+.panel-body {
+    color: black;
+}
+a {
+    color: white;
+}
